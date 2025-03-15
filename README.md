@@ -3,6 +3,8 @@ Data Analysis Tableau projects
 
 **2023 Sales project:**
 
+https://public.tableau.com/views/Sales_17420476720070/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ![image](https://github.com/user-attachments/assets/3c33ffa7-9a27-44c7-800b-82847b137d9b)
 ![image](https://github.com/user-attachments/assets/04441f35-e534-4cb7-86e9-62fbd2aef252)
 
