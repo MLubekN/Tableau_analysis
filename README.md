@@ -1,6 +1,17 @@
 # Tableau_analysis
 Data Analysis Tableau projects
 
+**2023 Sales project:**
+
+![image](https://github.com/user-attachments/assets/3c33ffa7-9a27-44c7-800b-82847b137d9b)
+![image](https://github.com/user-attachments/assets/04441f35-e534-4cb7-86e9-62fbd2aef252)
+
+Dashboards:
+
+![image](https://github.com/user-attachments/assets/20f91f50-ed4c-430f-86a5-d205d9e4fdd1)
+![image](https://github.com/user-attachments/assets/54208f17-c9c1-4162-a136-880dcd395b3f)
+
+
 
 **Seattle Airbnb project:**
 
